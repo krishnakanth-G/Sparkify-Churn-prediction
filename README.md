@@ -1,4 +1,4 @@
-# Sparkify_churn_prediction
+# Sparkify churn prediction
 
 Problem statement: Assisting Sparkify music service for churn prediction.
 
