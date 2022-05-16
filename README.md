@@ -8,4 +8,6 @@ In this project, I am going to analyze Sparkify data and create a machine learni
   * Feature extraction
   * Modeling
 
+The report.pdf contains the details of the problem.
+
 Dataset Link: https://media.githubusercontent.com/media/angang-li/sparkify/master/mini_sparkify_event_data.json
