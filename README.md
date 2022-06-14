@@ -10,4 +10,4 @@ In this project, I am going to analyze Sparkify data and create a machine learni
 
 The report.pdf contains the details of the problem.
 
-Dataset Link: https://media.githubusercontent.com/media/angang-li/sparkify/master/mini_sparkify_event_data.json
+Dataset Link: https://github.com/celestinhermez/sparkify_customer_churn/blob/master/mini_sparkify_event_data.json
